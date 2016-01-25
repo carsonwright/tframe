@@ -6,4 +6,4 @@ Assets build from the app/assets folder
 
 Build assets and api:
 
-    Gulp
+    gulp
